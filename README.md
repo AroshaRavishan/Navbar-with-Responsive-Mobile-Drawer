@@ -1,4 +1,4 @@
-# Detailed Navigation Component Breakdown
+# Responsive Navbar with Drawer Menu
 
 ## Component Structure
 
