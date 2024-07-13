@@ -24,7 +24,7 @@ onMounted(() => {
     <nav class="bg-beige-300 py-4 sticky w-full top-0 z-10">
         <div class="container flex items-center justify-between">
             <div class="flex-shrink-0 flex gap-6 xl:gap-14 items-center">
-                <img loading="lazy" :src="$page.props.assetURL ? $page.props.assetURL + '/web-assets/GelLogo.svg' : '../../web-assets/GelLogo.svg'" alt="GelLogo" class="w-[180px]">
+                <img data-v-0c67a7dd="" loading="lazy" alt="GelLogo" class="w-[180px]" src="https://i.imghippo.com/files/LzYzY1720858499.png">
                 <div class="hs-dropdown [--strategy:static] sm:[--strategy:absolute] [--adaptive:none] sm:[--trigger:hover] hidden lg:block">
                     <button class="text-black-900 text-base font-bold flex items-center gap-1 py-4">Mega Menu
                         <img loading="lazy" :src="$page.props.assetURL ? $page.props.assetURL + '/web-assets/WebRevamp/arrowdown.svg' : '../../web-assets/WebRevamp/arrowdown.svg'" alt="arrowdown" class="">
