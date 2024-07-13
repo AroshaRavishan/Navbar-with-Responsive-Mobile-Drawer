@@ -4,6 +4,16 @@
 
 This Vue.js component creates a responsive navigation bar with both desktop and mobile layouts. It's structured as follows:
 
+## Component Previews
+
+### Mobile Drawer View
+![Responsive Drawer](https://github.com/AroshaRavishan/Navbar-with-Responsive-Mobile-Drawer/raw/main/Responsive%20Drawer.png)
+*Mobile Drawer navigation with mega menu dropdown*
+
+### Mobile View
+![Mobile Menu](https://github.com/AroshaRavishan/Navbar-with-Responsive-Mobile-Drawer/raw/main/Mobile%20Menu%20View.png)
+*Mobile navigation with slide-out drawer*
+
 ### Script Section
 - Uses Vue 3 Composition API with `<script setup>`
 - Imports:
